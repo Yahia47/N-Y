@@ -9,7 +9,7 @@ Modern and responsive portfolio website built with **Nuxt 3** to showcase my pro
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Portfolio](https://your-domain.vercel.app)**
+🔗 **[View Live Portfolio](https://yahia-noureddine.vercel.app/)**
 
 ---
 
