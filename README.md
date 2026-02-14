@@ -1,75 +1,36 @@
-# Nuxt Minimal Starter
+# 🚀 Yahia Noureddine - Portfolio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Modern and responsive portfolio website built with **Nuxt 3** to showcase my projects, skills, and experience as a Software Engineer.
 
-## Setup
+## 🌐 Live Demo
 
-Make sure to install dependencies:
+🔗 [View Portfolio](https://your-domain.com)
 
-```bash
-# npm
-npm install
+---
 
-# pnpm
-pnpm install
+## 🧑‍💻 About The Project
 
-# yarn
-yarn install
+This portfolio highlights my work in full stack development, including modern web applications built with scalable architectures and clean code principles.
 
-# bun
-bun install
-```
+It features:
 
-## Development Server
+- Animated UI sections
+- Project showcase with GitHub & live demo links
+- Skills and technologies section
+- Responsive modern design
+- Optimized performance
 
-Start the development server on `http://localhost:3000`:
+---
 
-```bash
-# npm
-npm run dev
+## 🛠️ Built With
 
-# pnpm
-pnpm dev
+- ⚡ Nuxt js 
+- 🎨 Tailwind CSS
+- 🎬 VueUse Motion
+- 🧩 Vue js
+- 🌍 Vercel Deployment
 
-# yarn
-yarn dev
+---
 
-# bun
-bun run dev
-```
+## 📂 Project Structure
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
