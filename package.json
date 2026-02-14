@@ -1,0 +1,30 @@
+{
+  "name": "my-portfolio",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@iconify-json/bi": "^1.2.7",
+    "@iconify-json/fa6-brands": "^1.2.6",
+    "@iconify-json/fa6-solid": "^1.2.4",
+    "@iconify-json/heroicons": "^1.2.3",
+    "@iconify-json/logos": "^1.2.10",
+    "@iconify-json/mdi": "^1.2.3",
+    "@nuxt/icon": "^2.2.1",
+    "@nuxt/ui": "^4.4.0",
+    "@tailwindcss/vite": "^4.1.18",
+    "@vueuse/core": "^14.2.0",
+    "@vueuse/motion": "^3.0.3",
+    "gsap": "^3.14.2",
+    "nuxt": "^4.3.1",
+    "tailwindcss": "^4.1.18",
+    "vue": "^3.5.28",
+    "vue-router": "^4.6.4"
+  }
+}
