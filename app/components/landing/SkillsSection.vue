@@ -96,6 +96,7 @@ const technologies = [
   { name: "CSS", icon: "logos:css-3" },
   { name: "JavaScript", icon: "logos:javascript" },
   { name: "Vue.js", icon: "logos:vue" },
+  { name: "React.js", icon: "logos:react" },
   { name: "Laravel", icon: "logos:laravel" },
   { name: "Nuxt", icon: "logos:nuxt-icon" },
   { name: "Vite", icon: "logos:vitejs" },

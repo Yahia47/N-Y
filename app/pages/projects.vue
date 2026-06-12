@@ -44,6 +44,8 @@ import logoNovaImg from "@/assets/images/logoNova.webp";
 import foodBakery from "@/assets/images/foodbakery.svg";
 import gestionCmmande from "@/assets/images/gestioncommandes.jpeg";
 import weather from "@/assets/images/weather.jpeg";
+import medcare from "@/assets/images/medcare.jpg";
+import movieApp from "@/assets/images/novieApp.jpeg";
 
 useHead({
   title: "Projects - N | Y",
@@ -99,7 +101,36 @@ const allProjects = [
     tags: ["Vue js", "Css", "Api weather", "tailwind css", "Weather app"],
     github: "https://github.com/Yahia47/weather-app-with-VUE.JS",
     demo: "https://weather-app-with-vue-js.vercel.app/",
-    color: "#f43f52",
+    color: "#C1EBE9",
+  },
+  {
+    id: 5,
+    title: "MedCare",
+    description:
+      "A full-stack healthcare platform connecting patients and doctors in Algeria. Patients find & book verified doctors. Doctors manage appointments & profiles. Admins oversee everything.",
+    image: medcare,
+    tags: [
+      "Laravel",
+      "PHP",
+      "PostgreSQL",
+      "Vite",
+      "Medical",
+      "Healthcare",
+      "Blade",
+    ],
+    github: "https://github.com/HmMustapha/MedCare-Application-",
+    color: "#39B1D1",
+  },
+  {
+    id: 6,
+    title: "MovieAPP",
+    description:
+      "MovieAPP is a modern and responsive web application that allows users to explore trending movies and TV shows using the TMDB API. The platform provides advanced search functionality, detailed movie information, trailers, ratings, and a smooth user experience with a clean and interactive interface. It is designed to help movie enthusiasts discover and enjoy the latest entertainment content بسهولة.",
+    image: movieApp,
+    tags: ["React", "JavaScript", "TMDB API", "Tailwind CSS", "Vite"],
+    github: "https://github.com/Yahia47/Movie-APP",
+    demo: "https://movie-app-yahia2.vercel.app/",
+    color: "#443199",
   },
 ];
 </script>

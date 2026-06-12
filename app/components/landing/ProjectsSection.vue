@@ -48,7 +48,8 @@ import novaImg from "@/assets/images/nova.png";
 import logoNovaImg from "@/assets/images/logoNova.webp";
 import foodBakery from "@/assets/images/foodbakery.svg";
 import gestionCmmande from "@/assets/images/gestioncommandes.jpeg";
-import weather from "@/assets/images/weather.jpeg";
+import medcare from "@/assets/images/medcare.jpg";
+import movieApp from "@/assets/images/novieApp.jpeg";
 
 const featuredProjects = [
   {
@@ -62,6 +63,24 @@ const featuredProjects = [
     github: "https://github.com/Yahia47/NovaShop",
     demo: "https://novashop-production.up.railway.app/",
     color: "#6366f1",
+  },
+  {
+    id: 4,
+    title: "MedCare",
+    description:
+      "A full-stack healthcare platform connecting patients and doctors in Algeria. Patients find & book verified doctors. Doctors manage appointments & profiles. Admins oversee everything.",
+    image: medcare,
+    tags: [
+      "Laravel",
+      "PHP",
+      "PostgreSQL",
+      "Vite",
+      "Medical",
+      "Healthcare",
+      "Blade",
+    ],
+    github: "https://github.com/HmMustapha/MedCare-Application-",
+    color: "#39B1D1",
   },
   {
     id: 2,
@@ -84,6 +103,17 @@ const featuredProjects = [
     github: "https://github.com/Yahia47/foodbakery",
     demo: "https://foodbakery-production.up.railway.app/",
     color: "#ec4899",
+  },
+  {
+    id: 5,
+    title: "MovieAPP",
+    description:
+      "MovieAPP is a modern and responsive web application that allows users to explore trending movies and TV shows using the TMDB API. The platform provides advanced search functionality, detailed movie information, trailers, ratings, and a smooth user experience with a clean and interactive interface. It is designed to help movie enthusiasts discover and enjoy the latest entertainment content بسهولة.",
+    image: movieApp,
+    tags: ["React", "JavaScript", "TMDB API", "Tailwind CSS", "Vite"],
+    github: "https://github.com/Yahia47/Movie-APP",
+    demo: "https://movie-app-yahia2.vercel.app/",
+    color: "#443199",
   },
 ];
 </script>
